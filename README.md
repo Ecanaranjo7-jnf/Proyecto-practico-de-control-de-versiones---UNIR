@@ -8,7 +8,7 @@ El objetivo principal es practicar el uso de **Git** y **GitHub** como herramien
 ## Datos de la asignatura
 
 - Asignatura: Introducción a la Programación Científica
-- Alumno/a: *[Tu nombre y apellidos]*
+- Alumno/a: Naranjo Fuentes Erica Judith
 - Universidad: UNIR
 
 ## Descripción del proyecto
